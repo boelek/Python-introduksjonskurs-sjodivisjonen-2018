@@ -5,7 +5,7 @@ Created on Wed Jan 18 06:40:34 2018
 @author: boele
 """
 
-# training 02, reading text files and converting from NED to XYZ
+# 02, reading text files and converting from NED to XYZ
 
 # open xyz file
 f = open('test.xyz', 'r')
