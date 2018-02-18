@@ -8,3 +8,4 @@ Ingredients:
 - ArcGIS Python API
 - CARIS Python API
 - Python and FME
+- versioning and GitHub
